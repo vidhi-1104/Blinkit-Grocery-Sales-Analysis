@@ -1,7 +1,5 @@
-# Blinkit-Grocery-Sales-Analysis
-Retail and sales performance dashboard for Blinkit (quick-commerce) analyzing outlet types, location tiers, and product categories to track revenue distribution.
-
 # 🛒 Blinkit Last-Minute Grocery Sales Analysis
+Retail and sales performance dashboard for Blinkit (quick-commerce) analyzing outlet types, location tiers, and product categories to track revenue distribution.
 
 ## 🎯 Business Context
 Operating in the highly competitive quick-commerce market requires precise monitoring of inventory performance and geometric expansion. This dashboard tracks **1.20M in Total Sales** across 141 outlets to break down revenue by regional tiers, establishment history, and item categories.
