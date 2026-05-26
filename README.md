@@ -7,8 +7,7 @@ Retail and sales performance dashboard for Blinkit (quick-commerce) analyzing ou
 Operating in the highly competitive quick-commerce market requires precise monitoring of inventory performance and geometric expansion. This dashboard tracks **1.20M in Total Sales** across 141 outlets to break down revenue by regional tiers, establishment history, and item categories.
 
 ## 📊 Live Dashboard Preview
-![Blinkit Dashboard](<img width="1307" height="733" alt="image" src="https://github.com/user-attachments/assets/2fbbeaa2-06c3-4235-ac23-08f2db079fa6" />
-)
+<img width="1307" height="734" alt="Screenshot 2026-05-26 174155" src="https://github.com/user-attachments/assets/415f97d6-ed86-4155-963d-aeb584b7a406" />)
 *(Note: If your uploaded image has a different filename, change 'image_7df04f.png' to match it perfectly)*
 
 ---
